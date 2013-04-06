@@ -1,10 +1,6 @@
-/*******************************************************************
-I understand and have abided by the UNCG Academic Integrity Policy:
+/*
 Andrew Holman
-1060
-CSC 330-01
-Spring 2010
-********************************************************************
+
 ********************************************************************
 The following will output a binary tree and denote each leaf's 
 level by a series of dashes (-).
